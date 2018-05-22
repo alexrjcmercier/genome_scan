@@ -1,2 +1,2 @@
 # genome_scan
-Files preparation for use in genome scan softwares
+Collections of (mostly python) scripts for computation of usual genome scans indices
