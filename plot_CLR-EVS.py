@@ -1,3 +1,4 @@
+#coding:utf-8
 #!/bin/env python2.7
 import sys
 import os
